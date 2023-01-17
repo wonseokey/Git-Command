@@ -27,3 +27,4 @@
 - var name ="hong"
 + const fullname="Gildong"
 ```
+###  여기서부터는 원격저장소의 모든 브랜치를 로컬로 클론한 뒤 변경한 것이다
