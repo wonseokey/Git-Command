@@ -1,7 +1,7 @@
 # Day14 2023/01/18 Git Command
 
 ## mkdir 로컬저장소 이름
-### <img src="file:///C:/Users/a20/Desktop/img/gitTest.PNG" width="100">
+### <img src="file:///C:/Users/a20/Desktop/img/gitTest.PNG" width="100" height="100">
 2️⃣cd 로컬저장소 이름
 3️⃣pwd (✔ 저장소위치 확인)
 4️⃣git init
