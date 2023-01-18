@@ -1,7 +1,7 @@
 # Day14 2023/01/18 Git Command
 
 ## mkdir 로컬저장소 이름
-### <img src=https://github.com/wonseokey/Git-Command/blob/main/gitAddress.PNG>
+### <img src=https://github.com/wonseokey/Git-Command/blob/main/gitTest.PNG>
 2️⃣cd 로컬저장소 이름
 3️⃣pwd (✔ 저장소위치 확인)
 4️⃣git init
